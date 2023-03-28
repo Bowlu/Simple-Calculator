@@ -1,5 +1,5 @@
-#A Simple Calculator using Javascript
-##This Calculator contains the following operators
+# A Simple Calculator using Javascript
+## This Calculator contains the following operators
     - Addition (+)
     - Subtractio (-)
     - Multiplication
